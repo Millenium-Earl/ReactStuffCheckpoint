@@ -1,0 +1,46 @@
+{
+    "products": [
+        {
+            "id": 0,
+            "name": "chocolat",
+            "price": 12,
+            "quantity": 1 
+        },
+        {
+            "id": 1,
+            "name": "cheese",
+            "price": 12,
+            "quantity": 1 
+        },
+        {
+            "id": 2,
+            "name": "kda mena",
+            "price": 12,
+            "quantity": 1 
+        },
+        {
+            "id": 3,
+            "name": "Zetla",
+            "price": 12,
+            "quantity": 1 
+        },
+        {
+            "id": 4,
+            "name": "kinder pingui",
+            "price": 12,
+            "quantity": 1 
+        },
+        {
+            "id": 5,
+            "name": "Zitoune",
+            "price": 12,
+            "quantity": 1 
+        },
+        {
+            "id": 6,
+            "name": "Mechoui",
+            "price": 12,
+            "quantity": 1 
+        }
+    ]
+}

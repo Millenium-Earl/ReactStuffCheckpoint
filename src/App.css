@@ -1,0 +1,15 @@
+.rounded  {
+  height: 30px;
+  width: 30px;
+}
+.badge {
+  background-color: brown;
+  z-index: 2;
+  position: relative;
+  height: 20px;
+  width: 20px;
+  border-radius: 50%;
+}
+.cart {
+   color: white
+}
